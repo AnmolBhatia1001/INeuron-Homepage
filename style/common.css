@@ -145,12 +145,12 @@ a{
 
 
 @media screen and (max-width: 1200px) {
-    /* .nav-bar{
+    .nav-bar{
         display:none;
     }
     .auth-bar{
         display: none;
-    } */
+    }
 
     .nav-item{
     flex-wrap: wrap;
